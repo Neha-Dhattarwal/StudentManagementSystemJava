@@ -1,6 +1,4 @@
 # Student Training and Exam Management System
-
-
 ![Student Training and Exam System](images/Student-Training-Exam-System.png "Student Training and Exam System")
 
 ![Class Diagram](images/Class-Diagram.png "Class Diagram")
