@@ -1,10 +1,11 @@
 # Student Training and Exam Management System
-# My Project with an External Logo
 
-![Student Training and Exam System](:\Users\neha1\OneDrive\Desktop\java question\bootcamp\Assignment\images\Student Training and Exam System.png "Student Training and Exam System")
+# Student Training and Exam Management System
 
+![Student Training and Exam System](images/Student-Training-Exam-System.png "Student Training and Exam System")
 
-![Class Diagram](:\Users\neha1\OneDrive\Desktop\java question\bootcamp\Assignment\images\Class Diagram.png "Class Diagram")
+![Class Diagram](images/Class-Diagram.png "Class Diagram")
+
 ## Project Description
 
 This is a console-based Java application designed to manage student training and examination records. It provides two main sections: a **Student Section** for students to register, select a course, and take an exam, and an **Admin Section** for administrators to view all registered students and their exam results.
